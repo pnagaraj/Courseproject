@@ -11,3 +11,4 @@ Description of script run_analysis.R
 2. To run the script, source the script "run_analysis.R" and they type "run_analysis.R"
 3. The script merges the X_* and Y_* datasets, assigns column names from features.txt. Further, the activity description for each observation is attached using the information in activity_labels.txt. Finally, data is re-ordered for each activity and each subject and a tidy data is output to a text file.  
 The script writes the tidy data in a text file called "~/Documents/coursera/tidydata"
+# Courseproject
